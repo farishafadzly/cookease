@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head>
-    
+<head>  
     <title>CookEase</title>
 </head>
 <body>
